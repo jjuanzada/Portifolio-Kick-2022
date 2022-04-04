@@ -16,15 +16,19 @@ Seção #2
 ![sobre](https://user-images.githubusercontent.com/95050417/161593437-9539a68c-9d46-4805-86e7-acb9202c216b.png)
 
 Seção #3
+
 ![habilidades](https://user-images.githubusercontent.com/95050417/161595283-20133e2d-3fc4-4b65-9c7d-be3a3394e5f0.png)
 
 Seção #4
+
 ![formação](https://user-images.githubusercontent.com/95050417/161595330-c23e5cac-9d8c-487e-a000-0380b93dc8f3.png)
 
 Seção #5
+
 ![projetos](https://user-images.githubusercontent.com/95050417/161595363-e79fd2fd-80eb-42c0-a673-04333ee7e0b5.png)
 
 Seção #6
+
 ![contato](https://user-images.githubusercontent.com/95050417/161595388-20f47185-a1de-48f7-abf2-c55c27de518a.png)
 
 
