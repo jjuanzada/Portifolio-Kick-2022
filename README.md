@@ -8,6 +8,10 @@ Link para o site: http://juan-martins.soukick.com.br/?page_id=22#
 
 PDF:http://juan-martins.soukick.com.br/wp-content/uploads/2022/04/cv.pdf
 
+site completo:
+![portifolio](https://user-images.githubusercontent.com/95050417/161596593-a6294ba1-94e6-47d6-ad8c-afd5eec733d2.png)
+
+
 
 Seção #1
 ![banner](https://user-images.githubusercontent.com/95050417/161593302-13c5c0eb-de34-4812-9bcb-bc63f2e7e252.png)
