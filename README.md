@@ -8,6 +8,12 @@ Link para o site: http://juan-martins.soukick.com.br/?page_id=22#
 
 PDF:http://juan-martins.soukick.com.br/wp-content/uploads/2022/04/cv.pdf
 
+Cores:
+https://coolors.co/2378a9-ed6a5a-e9f1f7-131b23-fdc149
+
+![image](https://user-images.githubusercontent.com/95050417/161647419-90a8174b-9746-4a73-8b4a-c1da69893f5b.png)
+
+
 site completo:
 ![portifolio](https://user-images.githubusercontent.com/95050417/161596593-a6294ba1-94e6-47d6-ad8c-afd5eec733d2.png)
 
