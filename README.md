@@ -10,7 +10,7 @@ Seção #1![banner](https://user-images.githubusercontent.com/95050417/161593302
 
 Seção #2![sobre](https://user-images.githubusercontent.com/95050417/161593437-9539a68c-9d46-4805-86e7-acb9202c216b.png)
 
-Seção #3![habilidades](https://user-images.githubusercontent.com/95050417/161593630-b371c8dd-ab21-46d6-999a-c5572935cf0a.jpg)
+Seção #3![habilidades](https://user-images.githubusercontent.com/95050417/161594480-78a37cd0-6842-4afb-bef9-f9227aa6e58c.png)
 
 Seção #4![formação](https://user-images.githubusercontent.com/95050417/161593662-099890b3-8522-4047-a4f4-46ff8545e9ce.jpg)
 
